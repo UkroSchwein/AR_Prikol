@@ -71,3 +71,19 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+/Assets/Mane6Ponies
+Assets/Mane6Ponies.meta
+Assets/Resources/Img/IMG_20240911_185735.jpg.meta
+Assets/Resources/Img/IMG_20240911_185735.jpg
+Assets/Resources/Img/IMG_20240911_185731.jpg.meta
+Assets/Resources/Img/IMG_20240911_185731.jpg
+Assets/Resources/Img/IMG_20240911_185639.jpg.meta
+Assets/Resources/Img/IMG_20240911_185639.jpg
+Assets/Resources/Img/IMG_20240911_185629.jpg.meta
+Assets/Resources/Img/IMG_20240911_185629.jpg
+Assets/Resources/Img/IMG_20240911_184130.jpg.meta
+Assets/Resources/Img/IMG_20240911_184130.jpg
+/Assets/Resources/Prefabs
+Assets/Scripts/RandomAnimationSet.cs
+Assets/Scripts/RandomAnimationSet.cs.meta
+/Assets/Resources/Animations
