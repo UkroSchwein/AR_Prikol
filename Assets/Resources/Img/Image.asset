@@ -47,13 +47,3 @@ MonoBehaviour:
     m_SpecifySize: 0
     m_Name: fluttershy
     m_Texture: {fileID: 2800000, guid: baf95ac300f367b4c8925665a8069d50, type: 3}
-  - m_SerializedGuid:
-      m_GuidLow: 5381848976501846050
-      m_GuidHigh: 14980220823158826883
-    m_SerializedTextureGuid:
-      m_GuidLow: 1883771411789378715
-      m_GuidHigh: 9051935101640559880
-    m_Size: {x: 0, y: 0}
-    m_SpecifySize: 0
-    m_Name: pinkie
-    m_Texture: {fileID: 2800000, guid: 4dbdf49b801e1a2408cd2c0704ef9e7d, type: 3}
