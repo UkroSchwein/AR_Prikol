@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4538818339872732343
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 514bb9407235ecc448074c5faba9624c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -112.080956
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 514bb9407235ecc448074c5faba9624c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 514bb9407235ecc448074c5faba9624c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -468.98035
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 514bb9407235ecc448074c5faba9624c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 514bb9407235ecc448074c5faba9624c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 514bb9407235ecc448074c5faba9624c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 514bb9407235ecc448074c5faba9624c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 514bb9407235ecc448074c5faba9624c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 514bb9407235ecc448074c5faba9624c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 514bb9407235ecc448074c5faba9624c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -1625803086486920212, guid: 514bb9407235ecc448074c5faba9624c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7e4b9edfce62ce24aac4602b7e1f5a39, type: 2}
+    - target: {fileID: -1095857556261263534, guid: 514bb9407235ecc448074c5faba9624c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 91d30484499d5c74a9935c8df8e4e479, type: 2}
+    - target: {fileID: -742998751187239462, guid: 514bb9407235ecc448074c5faba9624c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f409060f3609ae542983b9e08c76e33d, type: 2}
+    - target: {fileID: -571072421068800422, guid: 514bb9407235ecc448074c5faba9624c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 96178ee0787f6944f8384dd14753c3f4, type: 2}
+    - target: {fileID: 919132149155446097, guid: 514bb9407235ecc448074c5faba9624c, type: 3}
+      propertyPath: m_Name
+      value: lightning_mcqueen_world_grand_prix (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3327565313063865430, guid: 514bb9407235ecc448074c5faba9624c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8c1ae2689c7d1d5469c26fca165eeffd, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 514bb9407235ecc448074c5faba9624c, type: 3}

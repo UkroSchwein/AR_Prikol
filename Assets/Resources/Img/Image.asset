@@ -21,29 +21,29 @@ MonoBehaviour:
       m_GuidLow: 5307826167583881344
       m_GuidHigh: 6968081034074268831
     m_SerializedTextureGuid:
-      m_GuidLow: 12224028447344772326
-      m_GuidHigh: 3181821029225884730
+      m_GuidLow: 8206797788092520385
+      m_GuidHigh: 14381639411349796474
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
-    m_Name: twilight
-    m_Texture: {fileID: 2800000, guid: 704144e6791ba9a43a6ce0395e19282c, type: 3}
+    m_Name: A
+    m_Texture: {fileID: 0}
   - m_SerializedGuid:
       m_GuidLow: 4712208024903629602
       m_GuidHigh: 51088438387608502
     m_SerializedTextureGuid:
-      m_GuidLow: 17011450229457018728
-      m_GuidHigh: 8633046064223699656
+      m_GuidLow: 7792475630415885971
+      m_GuidHigh: 7583635759164451498
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
-    m_Name: rainbow
-    m_Texture: {fileID: 2800000, guid: 6905df68cfdaec14c842a3d3a7bdce77, type: 3}
+    m_Name: B
+    m_Texture: {fileID: 0}
   - m_SerializedGuid:
       m_GuidLow: 4694929314147464740
       m_GuidHigh: 5130404456068061621
     m_SerializedTextureGuid:
-      m_GuidLow: 7472598728528452291
-      m_GuidHigh: 5808806414702252744
+      m_GuidLow: 9733522300248994097
+      m_GuidHigh: 4168472201457595768
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
-    m_Name: fluttershy
-    m_Texture: {fileID: 2800000, guid: baf95ac300f367b4c8925665a8069d50, type: 3}
+    m_Name: C
+    m_Texture: {fileID: 0}

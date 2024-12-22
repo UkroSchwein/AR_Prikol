@@ -349,12 +349,12 @@ MonoBehaviour:
   _arTrackedImageManager: {fileID: 148304007}
   _prefabs:
     _items:
-    - key: A
-      item: {fileID: 160469083650493316, guid: 4f6ad5b51f2c04b4cbec3ff422d0dc3a, type: 3}
-    - key: B
-      item: {fileID: 2272792807953420087, guid: 46e88afdcc3751d4ca2c234ceef7248e, type: 3}
-    - key: C
-      item: {fileID: 1782205781622602405, guid: 3ced7f2578a0d214ba3d37080881edbf, type: 3}
+    - key: McQueen
+      item: {fileID: 3619898949573888486, guid: 59542d6a796645c4086f217ab1aee82f, type: 3}
+    - key: Storm
+      item: {fileID: 6657503351292734541, guid: 8d6e61e8d0b842f49a7cda846c7bd1b6, type: 3}
+    - key: Hudson
+      item: {fileID: 3920945649403708567, guid: 82b0db0fbae046145aedb2b35ace268d, type: 3}
 --- !u!1 &271968244
 GameObject:
   m_ObjectHideFlags: 0
@@ -1101,12 +1101,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _prefabs:
-  - {fileID: 8624646770264775186, guid: c020a894b3ba8bf4686fc73daf13bec1, type: 3}
-  - {fileID: 8326068588767282094, guid: 83fe127f1cc53654c97e7a23cf27e734, type: 3}
-  - {fileID: 7579963447161046405, guid: a5fd87bd48f0a5f4ab1e2212f00dee91, type: 3}
-  - {fileID: 5930872771302468207, guid: be1304023f2edf54590e9f70e69fe371, type: 3}
-  - {fileID: 368299967534394648, guid: b6023bb95bdeb594794eda53fcb85c35, type: 3}
-  - {fileID: 902075064814297899, guid: 6adb8a3a1b705be498c0e939472bdedb, type: 3}
+  - {fileID: 4140961206239826780, guid: 59542d6a796645c4086f217ab1aee82f, type: 3}
+  - {fileID: 6282491428068587255, guid: 8d6e61e8d0b842f49a7cda846c7bd1b6, type: 3}
+  - {fileID: 4405136058243751469, guid: 82b0db0fbae046145aedb2b35ace268d, type: 3}
 --- !u!114 &596065316
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1436,7 +1433,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Twilight
+  m_text: McQueen
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8a89fa14b10d46a99122fd4f73fca9a2, type: 2}
   m_sharedMaterial: {fileID: 2140474, guid: 8a89fa14b10d46a99122fd4f73fca9a2, type: 2}
@@ -1445,8 +1442,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4281479730
-  m_fontColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -1747,17 +1744,11 @@ MonoBehaviour:
   m_Value: 0
   m_Options:
     m_Options:
-    - m_Text: Twilight
+    - m_Text: McQueen
       m_Image: {fileID: 0}
-    - m_Text: Rainbow
+    - m_Text: Storm
       m_Image: {fileID: 0}
-    - m_Text: AppleJack
-      m_Image: {fileID: 0}
-    - m_Text: Flutter
-      m_Image: {fileID: 0}
-    - m_Text: Pinkie
-      m_Image: {fileID: 0}
-    - m_Text: Rarity
+    - m_Text: Hudson
       m_Image: {fileID: 0}
   m_OnValueChanged:
     m_PersistentCalls:
